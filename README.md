@@ -26,8 +26,7 @@ Installation:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/vahan-dashboard.git
-cd vahan-dashboard
+git clone https://github.com/Supritha-09-byte/Dashboard.git
 
 
 Create a virtual environment:
